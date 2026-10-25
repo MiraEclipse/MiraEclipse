@@ -1,16 +1,25 @@
-## Hi there 👋
+### hi, i'm mira 👋
 
-<!--
-**MiraEclipse/MiraEclipse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+backend girl, invisible by design. i like systems that are boring on the outside
+and paranoid on the inside.
 
-Here are some ideas to get you started:
+**what i do**
+- backend & apis: the part nobody sees until it breaks
+- data integrity, audit trails, "prove it" kind of software
+- small self-hosted tools that run on a raspberry pi and never call home
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**stack**
+- **backend:** `C#` · `Python` · `Java` · `C++` · `C`
+- **automation:** `PowerShell` · `VBA`
+- **web:** `JavaScript` · `HTML` · `CSS`
+
+ten languages, one repo — working on it.
+
+**projects**
+- **Kontor** – household finances & bookkeeping, because spreadsheets deserve better
+- **Lager Heim** – tamper-evident inventory tracking with a SHA-256 hash chain (private)
+
+**currently**
+- BFS & chilling
+
+> unemployed (professionally). employed (emotionally) by my side projects.
