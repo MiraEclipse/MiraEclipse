@@ -9,11 +9,12 @@ and paranoid on the inside.
 - small self-hosted tools that run on a raspberry pi and never call home
 
 **stack**
-- **backend:** `C#` · `Python` · `Java` · `C++` · `C`
+- **backend:** `C#` · `Python` · `Java` · `C++` · `C` · `ABAP`
+- **low-level & retro:** `Assembly` · `BASIC`
 - **automation:** `PowerShell` · `VBA`
 - **web:** `JavaScript` · `HTML` · `CSS`
 
-ten languages, one repo — working on it.
+thirteen languages, one repo — working on it.
 
 **projects**
 - **Kontor** – household finances & bookkeeping, because spreadsheets deserve better
